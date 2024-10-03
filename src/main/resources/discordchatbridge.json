@@ -1,0 +1,8 @@
+// DONT MODIFY THIS FILE, the config file is in `config` directory `modblocker.json`
+{
+  "Mc2Dc": false,
+  "webhookUrl": "Put Discord Channel Webhook URL here",
+  "Dc2Mc": false,
+  "token": "Put Discord Bot token here",
+  "format": "§b[Discord] <{username}> {content}"
+}

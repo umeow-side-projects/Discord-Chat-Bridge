@@ -1,0 +1,16 @@
+[
+{
+  "modid": "discordchatbridge",
+  "name": "Discord Chat Bridge",
+  "description": "Lite Framework for Discord Chat Bridge",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["umeow"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
